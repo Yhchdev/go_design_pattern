@@ -252,6 +252,7 @@ URL:/create/user
 | 适配器模式  | 想使用某个类，但这个类和要使用的其他代码不兼容时，创建一个中间层类   |
 | 代理模式 | 延迟初始化真实对象，先使用虚拟代理，请求代理(记录日志，请求缓存，请求限流，代理远程服务) |
 
+* [源码链接](https://github.com/Yhchdev/go_design_pattern)
 
 ### 行为型模式
 #### 1. 行为模式解决什么问题
@@ -508,4 +509,7 @@ func main() {
 | 观察者模式 | 一个对象(被观察者)需要将其状态的变化通知其他对象(观察者) |
 
 
+* [源码链接](https://github.com/Yhchdev/go_design_pattern)
 
+
+![公众号](https://53-1256238121.cos.ap-nanjing.myqcloud.com/%E6%89%AB%E7%A0%81_%E6%90%9C%E7%B4%A2%E8%81%94%E5%90%88%E4%BC%A0%E6%92%AD%E6%A0%B7%E5%BC%8F-%E6%A0%87%E5%87%86%E8%89%B2%E7%89%88%E7%9A%84%E5%89%AF%E6%9C%AC.png)
